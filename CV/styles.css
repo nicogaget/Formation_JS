@@ -1,0 +1,52 @@
+body {
+  width: 100%;
+  font-size: 24px;
+}
+h2,
+h3 {
+  color: brown;
+}
+h1 {
+  font-size: 60px;
+}
+h2 {
+  font-size: 40px;
+}
+.image {
+  border-radius: 30px;
+}
+span {
+  background-color: rgb(199, 199, 199);
+  padding: 1px 20px;
+}
+header {
+  padding: 25px;
+}
+.main {
+  padding: 25px;
+  width: 100%;
+}
+p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+.domComp {
+  width: 30%;
+}
+.domComp > ul {
+  list-style-type: none;
+  margin-left: 10px;
+  padding-left: 10px;
+}
+.expPro {
+  width: 70%;
+}
+
+footer {
+  padding: 25px;
+}
+ul {
+  list-style-type: none;
+  margin-left: 10px;
+  padding-left: 10px;
+}
