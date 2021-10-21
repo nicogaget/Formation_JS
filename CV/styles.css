@@ -22,10 +22,7 @@ span {
 header {
   padding: 25px;
 }
-.main {
-  padding: 25px;
-  width: 100%;
-}
+
 p {
   text-align: justify;
   text-justify: inter-word;
@@ -42,7 +39,7 @@ p {
   width: 70%;
 }
 
-footer {
+section {
   padding: 25px;
 }
 ul {
